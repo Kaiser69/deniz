@@ -80,6 +80,9 @@ videoContents.forEach(content => {
     videoFile.addEventListener('ended', finalVideo);
 });
 
+/*================second video=================*/
+
+
 
 /*==================== SHOW SCROLL UP ====================*/ 
 function scrollUp(){
